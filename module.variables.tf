@@ -1,3 +1,3 @@
 /*Initialization...*/
-variable "tenancy-ocid" { default = "" }
+variable "data-tenancy-id" {}
 variable "json-compartments" { default = "" }
